@@ -1,5 +1,5 @@
-from voicelib import say, recognize_audio
-from chatgptlib import ask_chatGPT
+from pylib.voicelib import say, recognize_audio
+from pylib.chatgptlib import ask_chatGPT
 
 print("I am Jarvis 2.0!")
 
